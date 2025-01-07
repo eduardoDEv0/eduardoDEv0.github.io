@@ -874,7 +874,7 @@ a.hero-button-01:hover {
     padding: 0;
     width: 100%;
     position: absolute;
-    margin-top: 0;
+    margin-top: -38px;
     border-radius: 0;
     left: 0;
     right: 0;
@@ -1423,7 +1423,7 @@ a.blog-comment {
 	margin:0 auto;
 }
 .band-content {
-    background: #fff;
+    
     padding: 82px 30px 78px 30px;
     box-shadow: 0 0px 2px #0003;
     border-radius: 7px;
