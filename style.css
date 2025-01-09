@@ -738,6 +738,9 @@ a.hero-button-01:hover {
 .choose-title h4 {
     margin-top: 0;
     font-size: 20px;
+    color: #3C4280;
+    font-family: "Mont-Bold", Mont-Bold;
+	
 }
 .single-choose-inner {
     align-items: center;
