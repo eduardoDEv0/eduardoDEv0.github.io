@@ -9,7 +9,7 @@
 	header-area-start
 ==============================*/
 .mobile-menu-logo.text-center {
-    padding: 20px 0;
+    padding: 1px 0;
 }
 .mobile-menu-logo.text-center img {
     width: auto;
@@ -90,7 +90,7 @@ nav.zomia_menu {
     transition: .5s;
     opacity: 0;
     visibility: hidden;
-    border-top: 2px solid #5A49F9;
+    border-top: 2px solid #3C4280;
 }
 .zomia_menu ul li:hover>.sub-menu {
     opacity: 1;
@@ -178,12 +178,12 @@ a.added-new-demo:after {
     background: linear-gradient(to right, #121228 0%, #3C4280 97%);
 }
 .zomia_menu > ul > li > a:hover {
-    color: #5A49F9 !important;
+    color: #3C4280 !important;
 }
 .header-donate-btn a:hover {
     background: #fff;
     border-color: #fff;
-    color: #5f4ff8;
+    color: #3C4280;
     font-family: "Mont-Bold", Mont-Bold;
 }
 .header-donate-btn a:hover {
@@ -304,7 +304,7 @@ a.hero-button-01:hover {
 }
 .breatcome-text ul li a {
     font-weight: 600;
-    color: #5f4ff8;
+    color: #3C4280;
     font-size: 15px;
     text-transform: uppercase;
 }
@@ -312,13 +312,13 @@ a.hero-button-01:hover {
     font-weight: 600;
     font-size: 15px;
     margin: 0 6px;
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .breatcome-text ul li span {
     font-weight: 600;
     font-size: 15px;
     text-transform: uppercase;
-    color: #5f4ff8;
+    color: #3C4280;
 }
 /*============================
 	service-area-start
@@ -345,7 +345,7 @@ a.hero-button-01:hover {
     text-align: center;
 }
 .section-sub-title h5 {
-    color: #5A49F9;
+    color: #3C4280;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 600;
@@ -604,7 +604,7 @@ a.hero-button-01:hover {
     font-family: "Mont-Bold", Mont-Bold;
 }
 .team-area.about-us{
-    background-color: #F8F8FF;
+    background-color: #ffffff;
 }
 .blog-area.about-us {
     background: #fff;
@@ -726,7 +726,7 @@ a.hero-button-01:hover {
 ==============================*/
 .why-choose-area{
     padding: 100px 0 80px 0;
-    background-color: #F8F8FF;
+    background-color: #ffffff;
 }
 .single-choose {
     margin: 0;
@@ -930,7 +930,7 @@ a.hero-button-01:hover {
 ==============================*/
 .portfolio-section {
     padding: 100px 0px 80px 0px;
-    background-color: #F8F8FF;
+    background-color: #ffffff;
 }
 .single-portfolio {
     padding: 0;
@@ -1058,7 +1058,7 @@ a.hero-button-01:hover {
     margin-top: 10px;
 }
 .testi-star i.active {
-    color: #5f4ff8;
+    color: #3C4280;
     font-size: 19px;
     margin: 0 1px;
 }
@@ -1179,7 +1179,7 @@ a.hero-button-01:hover {
 ======================*/
 .blog-area {
     padding: 100px 0 55px 0;
-    background-color: #F8F8FF;
+    background-color: #ffffff;
 }
 .blog-area.project-area {
     background: #fff;
@@ -1246,7 +1246,7 @@ p.date-month {
     color: #5a49f8;
 }
 .blog-meta-icon i {
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .blog-meta-icon i span {
     padding: 0 0 0 5px;
@@ -1287,7 +1287,7 @@ a.blog-comment {
     border-radius: 50%;
 }
 .blog-meta i {
-    color: #5f4ff8;
+    color: #3C4280;
     margin-right: 10px;
 }
 .blog-meta a:last-child {
@@ -1346,7 +1346,7 @@ a.blog-comment {
     text-align: center;
 }
 .blog-meta a:hover, .blog-meta span:hover {
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .blog-title a h3:hover {
     color: #5a49f8;
@@ -1441,7 +1441,7 @@ a.blog-comment {
     margin-bottom: 0;
     box-shadow: none;
     margin: 0;
-	background:#F8F8FF;
+	background:#ffffff;
     padding: 82px 30px 78px 30px;
 }
 .blog-area.searvices-blg {
@@ -1524,7 +1524,7 @@ a.blog-comment {
     margin-top: 13px;
 }
 .blog-list-inner h3 a:hover {
-	color: #5f4ff8;
+	color: #3C4280;
 } 
 .blog-form-field {
     display: block;
@@ -1685,7 +1685,7 @@ input[type="email"]:focus {
     font-weight: 600;
 }
 .recent-post-text h4 a:hover {
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .recent-post-text .rcomment {
     color: #616161;
@@ -1709,7 +1709,7 @@ input[type="email"]:focus {
 .search-error h3 {
     display: block;
     font-size: 60px;
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .search-error p {
     font-size: 18px;
@@ -1885,7 +1885,7 @@ border: 1px solid #f00;
 .blog-dtls-desc {
     padding: 1px 30px 12px;
     font-size: 21px;
-    border-left: 4px solid #5f4ff8;
+    border-left: 4px solid #3C4280;
     background: 0 0;
     font-style: normal;
     color: #232;
@@ -1915,8 +1915,8 @@ border: 1px solid #f00;
 	transition:0.5s;
 }
 .blog-details-social-icon a i:hover {
-    background: #5f4ff8;
-    border-color: #5f4ff8;
+    background: #3C4280;
+    border-color: #3C4280;
     color: #fff;
 }
 .single-widget-item.blg-dtls-bar{
@@ -2411,13 +2411,13 @@ button.submit-button:focus{
 }
 .widget-inner:hover .widget-icon i{
     background: #fff;
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .widge-link ul li a:hover {
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .widge-link ul li:hover:before {
-    color: #5f4ff8;
+    color: #3C4280;
 }
 .copyright-area {
     border-style: solid;
@@ -2624,7 +2624,7 @@ span.flaticon-multiply i {
     text-align: center;
     width: 60px;
     border-radius: 100%;
-    background: #5f4ff8;
+    background: #3C4280;
     -webkit-transition: .3s;
     -o-transition: .3s;
     transition: .3s;

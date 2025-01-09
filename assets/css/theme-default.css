@@ -14,7 +14,7 @@ body {
     line-height: 30px;
     text-align: left;
 	transition:0.5s;
-	font-family: 'Rubik', sans-serif;
+	font-family: 'Mont-Regular', Mont-Regular;
 }
 p {
     font-weight: 400;
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
     color: #1d2124;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Mont-Regular', Mont-Regular;
     font-style: normal;
     margin-bottom: 0;
     margin-top: 11px;
