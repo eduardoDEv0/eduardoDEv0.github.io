@@ -478,6 +478,8 @@ a.hero-button-01:hover {
     padding: 0;
     transition:0.5s;
     font-weight: 600;
+    color: #3C4280;
+    font-family: "Mont-Regular", Mont-Regular;
 }
 .single-service-inner:hover {
     transform: translateY(-10px);
@@ -2372,6 +2374,8 @@ button.submit-button:focus{
     display: inline-block;
     transition: .5s;
     text-decoration: none;
+    font-family: "Mont-Regular", Mont-Regular;
+
 }
 .widge-link ul i{
     font-size: 15px;
@@ -2391,6 +2395,7 @@ button.submit-button:focus{
     font-weight: 600;
     padding-bottom: 5px;
     margin-top: 0;
+    font-family: "Mont-Regular", Mont-Regular;
 }
 .widget-social-information p{
 	color:#fff;
@@ -2399,6 +2404,7 @@ button.submit-button:focus{
 }
 .widget-icon {
     margin-right: 17px;
+    font-family: "Mont-Regular", Mont-Regular;
 }
 .widget-icon i {
     height: 45px;
@@ -2434,6 +2440,7 @@ button.submit-button:focus{
 .copyright-text p {
 	color:#fff;
     padding: 0;
+    font-family: "Mont-Regular", Mont-Regular;
 }
 .copyright-text {
 	text-align:center;
@@ -2867,4 +2874,10 @@ span.flaticon-multiply i {
   .image {
     width: 100%;
     height: auto;
+  }
+
+
+  .articles {
+    font-family: "Mont-Regular", Mont-Regular;
+    color: #3C4280;
   }
