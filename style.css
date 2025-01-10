@@ -167,7 +167,6 @@ a.added-new-demo:after {
     margin-bottom: 0;
     text-align: center;
 	transition:0.3s;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .zomia_menu ul .sub-menu li:hover>a,
 .zomia_menu ul .sub-menu .sub-menu li:hover>a,
