@@ -57,12 +57,11 @@ nav.zomia_menu {
     -webkit-transition: .5s;
     transition: .5s;
     position: relative;
-    color: #3C4280;
+    color: #121228;
     font-weight: 600;
     text-transform: capitalize;
-    margin: 30px 7px;
-    font-size: 18px;
-    font-family: "Mont-Regular", Mont-Regular;
+    margin: 30px 4px;
+    font-size: 20px;
 
 }
 .zomia_menu ul li:last-child a {
@@ -157,8 +156,8 @@ a.added-new-demo:after {
 }
 .header-donate-btn a.header-btn {
     color: #fff;
-    background: linear-gradient( to right, #121228  0%, #3C4280 97%);
-    border: 1px solid #695AF8;
+    background: linear-gradient( to right, #FF8200  0%, #FF8200 97%);
+    border: 1px solid #FF8200;
     padding: 9px 35px;
     vertical-align: middle;
     border-radius: 3px;
@@ -168,7 +167,7 @@ a.added-new-demo:after {
     margin-bottom: 0;
     text-align: center;
 	transition:0.3s;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .zomia_menu ul .sub-menu li:hover>a,
 .zomia_menu ul .sub-menu .sub-menu li:hover>a,
@@ -184,13 +183,13 @@ a.added-new-demo:after {
     background: #fff;
     border-color: #fff;
     color: #3C4280;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .header-donate-btn a:hover {
-    background: linear-gradient( to right, #3C4280 0%, #121228 97%);
+    background: linear-gradient( to right, #FF8200 0%, #FF8200 97%);
     border-color: #695AF8;
     color: #fff;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 /*============================
 	header-area-end
@@ -257,7 +256,7 @@ a.added-new-demo:after {
 }
 a.hero-button-01 {
 	background: linear-gradient( to right, #121228 0%, #3C4280 97%);
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .hero-button i{
     font-size: 16px;
@@ -265,7 +264,7 @@ a.hero-button-01 {
 }
 a.hero-button-01:hover {
     background: linear-gradient( to right, #3C4280 0%, #121228 97%);
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .hero-thumb-seting {
     position: relative;
@@ -340,7 +339,7 @@ a.hero-button-01:hover {
     margin-top: 0;
     line-height: 1.2;
     font-weight: 600;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
     color: #121228;
     text-align: center;
 }
@@ -479,7 +478,7 @@ a.hero-button-01:hover {
     transition:0.5s;
     font-weight: 600;
     color: #3C4280;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .single-service-inner:hover {
     transform: translateY(-10px);
@@ -580,9 +579,10 @@ a.hero-button-01:hover {
     margin-top: 35px;
 }
 .about-btn.left a {
-    background: linear-gradient(to right, #121228 0%, #3C4280 97%);
+    background: linear-gradient(to right, #FF8200 0%, #FF8200 97%);
     padding: 12px 41px;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-weight: 600;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .zomia-button {
     padding: 4;
@@ -596,6 +596,8 @@ a.hero-button-01:hover {
     font-weight: 400;
     transition: .5s;
     border-radius: 5px;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
+
 }
 .about-btn.left a i {
     padding: 0 0 0 7px;
@@ -603,7 +605,7 @@ a.hero-button-01:hover {
 }
 .about-btn.left a:hover {
     background: linear-gradient(to right, #3C4280 0%, #121228 97%);
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .team-area.about-us{
     background-color: #ffffff;
@@ -702,14 +704,14 @@ a.hero-button-01:hover {
 	border:1px solid #3C4280;
     border-radius: 50%;
     transition:0.5s!important;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .description-content h3 {
     color: #121228;
     font-size: 20px;
     font-weight: 600;
     margin: 0 0 10px 0;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .description-content p {
     margin: 0;
@@ -741,7 +743,7 @@ a.hero-button-01:hover {
     margin-top: 0;
     font-size: 20px;
     color: #3C4280;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 	
 }
 .single-choose-inner {
@@ -871,7 +873,7 @@ a.hero-button-01:hover {
     width: 0%;
     opacity: 0.6;
     border-radius: 4px;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .team-member-content {
     background: transparent;
@@ -960,7 +962,7 @@ a.hero-button-01:hover {
     transition: .5s;
     opacity: 0.9;
     border-radius: 4px;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .portfolio-thumb img {
     border-radius: 5px;
@@ -1023,7 +1025,7 @@ a.hero-button-01:hover {
     width: 100%;
     margin: 11px auto 20px;
     color: #646464;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
     font-size: 16px;
     font-weight: 400;
 }
@@ -1037,7 +1039,7 @@ a.hero-button-01:hover {
     background-image: -webkit-linear-gradient( -9deg , #121228 0%, #3C4280 97%);
     border-radius: 5px;
     margin: 120px 0 0;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .single-testimonial .testi-thumb {
     position: absolute;
@@ -1382,7 +1384,7 @@ a.blog-comment {
     background: -webkit-linear-gradient( -9deg , #121228 50%, #3C4280 97%);
     opacity: 0;
     transition: .5s;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .blog-thumb.blog-list-thumb:after {
     position: absolute;
@@ -1394,7 +1396,7 @@ a.blog-comment {
     background: -webkit-linear-gradient( -9deg , #121228 50%, #3C4280 97%);
     opacity: 0;
     transition: .5s;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .single-blog-list.single-blog-details:hover .blog-thumb.blog-list-thumb:before{
 	transform:skew(45deg) translateX(100%);
@@ -1429,7 +1431,7 @@ a.blog-comment {
 }
 .band-content {
     
-    padding: 82px 30px 78px 30px;
+    padding: -8px 30px 78px 30px;
     box-shadow: 0 0px 2px #0003;
     border-radius: 7px;
     z-index: 1;
@@ -1858,7 +1860,7 @@ border: 1px solid #f00;
 .all-date li.monthdate:hover {
     background: linear-gradient( to right, #3C4280 0%, #121228 97%);
     color: #fff;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 /*======================
 	calendar-area-end
@@ -1990,7 +1992,7 @@ p.comment-form-cookies-consent {
     text-indent: 25px;
     user-select: none;
     color: #1d2124;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
     margin-bottom: 20px;
     background: #f3f1ff;
     padding: 15px 0;
@@ -2170,7 +2172,7 @@ ul.accordion li a.active:hover::before {
 .input-box ::placeholder{
 	color:#7B838A;
 	font-weight:500;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .input-box input:focus {
     color: #495057;
@@ -2243,7 +2245,7 @@ ul.accordion li a.active:hover::before {
     border-style: solid;
     border-width: 1px 1px 1px 1px;
     padding: 11px 32px 11px 32px;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .subscrib-btn.right a {
     font-size: 16px;
@@ -2255,7 +2257,7 @@ ul.accordion li a.active:hover::before {
     border-width: 1px 1px 1px 1px;
     padding: 11px 35px 11px 35px;
     transition: 0.5s;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .subscrib-btn.left a:hover {
     color: #fff;
@@ -2264,7 +2266,7 @@ ul.accordion li a.active:hover::before {
 .subscrib-btn.right a:hover {
     color: #121228;
     background-color: #fff;
-    font-family: "Mont-Bold", Mont-Bold;
+    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 /*============================
 	Subscribe section end
@@ -2374,7 +2376,7 @@ button.submit-button:focus{
     display: inline-block;
     transition: .5s;
     text-decoration: none;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 
 }
 .widge-link ul i{
@@ -2395,7 +2397,7 @@ button.submit-button:focus{
     font-weight: 600;
     padding-bottom: 5px;
     margin-top: 0;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .widget-social-information p{
 	color:#fff;
@@ -2404,7 +2406,7 @@ button.submit-button:focus{
 }
 .widget-icon {
     margin-right: 17px;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .widget-icon i {
     height: 45px;
@@ -2440,7 +2442,7 @@ button.submit-button:focus{
 .copyright-text p {
 	color:#fff;
     padding: 0;
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .copyright-text {
 	text-align:center;
@@ -2878,6 +2880,8 @@ span.flaticon-multiply i {
 
 
   .articles {
-    font-family: "Mont-Regular", Mont-Regular;
+    font-family: "Montserrat-Regular", Montserrat-Regular;
     color: #3C4280;
   }
+
+  
