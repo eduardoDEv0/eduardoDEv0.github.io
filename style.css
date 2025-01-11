@@ -338,9 +338,9 @@ a.hero-button-01:hover {
     margin-top: 0;
     line-height: 1.2;
     font-weight: 600;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
     color: #121228;
     text-align: center;
+
 }
 .section-sub-title h5 {
     color: #3C4280;
@@ -581,7 +581,6 @@ a.hero-button-01:hover {
     background: linear-gradient(to right, #FF8200 0%, #FF8200 97%);
     padding: 12px 41px;
     font-weight: 600;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .zomia-button {
     padding: 4;
@@ -742,7 +741,6 @@ a.hero-button-01:hover {
     margin-top: 0;
     font-size: 20px;
     color: #3C4280;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
 	
 }
 .single-choose-inner {
