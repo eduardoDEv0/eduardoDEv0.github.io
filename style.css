@@ -182,13 +182,11 @@ a.added-new-demo:after {
     background: #fff;
     border-color: #fff;
     color: #3C4280;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 .header-donate-btn a:hover {
     background: linear-gradient( to right, #FF8200 0%, #FF8200 97%);
     border-color: #695AF8;
     color: #fff;
-    font-family: "Montserrat-Bold", Montserrat-Bold;
 }
 /*============================
 	header-area-end
@@ -601,8 +599,7 @@ a.hero-button-01:hover {
     font-size: 16px;
 }
 .about-btn.left a:hover {
-    background: linear-gradient(to right, #3C4280 0%, #121228 97%);
-    font-family: "Montserrat-Bold", Montserrat-Bold;
+    background: linear-gradient(to right, #FF8200 0%, #FF8200 97%);
 }
 .team-area.about-us{
     background-color: #ffffff;
