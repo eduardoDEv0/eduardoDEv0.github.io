@@ -2078,45 +2078,7 @@ ul.accordion li a.active:hover::before {
     padding: 0 0 105px 0;
     position: relative;
 }
-.contact-section{
-	box-shadow: 8px 9px 35px 0px rgb(145 145 145 / 24%);
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 59px;
-    background: #fff;
-	margin-top: -139px;
-    margin-bottom: 0px;
-    z-index: 2;
-}
-.contact-address {
-    background-color: #3C4280;
-    padding: 105px 0px 60px 39px;
-    border-radius: 5px;
-}
-.contact-icon i {
-    font-size: 38px;
-    background-image: none;
-    height: 46px;
-    width: 46px;
-    line-height: 30px;
-    color: #fff;
-	padding-right: 17px;
-}
-.contact-inner .title h2 {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 600;
-    margin: 0 0 10px 0;
-}
-.contact-inner .description p {
-    margin: 0;
-    transition: .5s;
-    color: #fff;
-    margin-bottom: 25px;
-}
-.contact-title h2 {
-    font-size: 32px;
-    margin: 0 0 34px;
-}
+
 .input-box {
     margin-bottom: 15px;
 }
