@@ -80,15 +80,13 @@
     line-height: 17px;
     margin-bottom: 20px;
     padding-bottom: 20px;
-    text-transform: capitalize;
-    font-weight: 700;
+     font-weight: 700;
     border-bottom: 3px solid #ddd;
 }
  .footer-middle .widget h5 {
      color: #333;
      font-size: 24px;
-     text-transform: capitalize;
-}
+  }
 .blog-left-side .widget ul {
     list-style: none;
     color: #0762f8;

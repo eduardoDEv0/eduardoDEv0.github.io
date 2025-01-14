@@ -59,8 +59,7 @@ nav.zomia_menu {
     position: relative;
     color: #121228;
     font-weight: 600;
-    text-transform: capitalize;
-    margin: 30px 4px;
+     margin: 30px 4px;
     font-size: 20px;
 
 }
@@ -332,8 +331,7 @@ a.hero-button-01:hover {
 .section-main-title h1{
     font-size: 42px;
     margin-bottom: 0px;
-    text-transform: capitalize;
-    margin-top: 0;
+     margin-top: 0;
     line-height: 1.2;
     font-weight: 600;
     color: #121228;
@@ -536,8 +534,7 @@ a.hero-button-01:hover {
 .section-main-title h2{
     font-size: 42px;
     margin-bottom: 0px;
-    text-transform: capitalize;
-    margin-top: 0;
+     margin-top: 0;
     line-height: 1.2;
     font-weight: 600;
 }
@@ -981,8 +978,7 @@ a.hero-button-01:hover {
 .portfolio-inner a h3{
     font-size: 24px;
     font-weight: 600;
-    text-transform: capitalize;
-    color: #fff;
+     color: #fff;
 }
 .portfolio-inner p {
     line-height: 1.1;
@@ -1101,8 +1097,7 @@ a.hero-button-01:hover {
 .testi-title h2 {
     font-size: 22px;
     margin-bottom: 0px;
-    text-transform: capitalize;
-    letter-spacing: 0;
+     letter-spacing: 0;
     font-weight: 600;
     color: #fff;
     padding-top: 12px;
@@ -1258,8 +1253,7 @@ p.date-month {
     display: inline-block;
     font-size: 14px;
     text-decoration: none;
-    text-transform: capitalize;
-    color: #646464;
+     color: #646464;
     position: relative;
     font-weight: 400;
 }
@@ -1595,8 +1589,7 @@ input[type="email"]:focus {
     margin-bottom: 40px;
     padding-bottom: 0;
     position: relative;
-    text-transform: capitalize;
-}
+ }
 .single-widget-item h2.widget-title:before {
     position: absolute;
     left: 0;
@@ -1793,16 +1786,14 @@ border: 1px solid #f00;
     margin-bottom: 5px;
     padding-bottom: 0;
     position: relative;
-    text-transform: capitalize;
-    font-weight: 700;
+     font-weight: 700;
     color: #255946;
     padding-left: 25px;
 }
 .curr-month-name p {
     font-size: 16px;
     font-weight: normal;
-    text-transform: capitalize;
-    color: #616161;
+     color: #616161;
     padding-left: 25px;
     margin-bottom: 25px;
 }
@@ -2174,8 +2165,7 @@ ul.accordion li a.active:hover::before {
     color: #FFFFFF;
     font-size: 30px;
     font-weight: 600;
-    text-transform: capitalize;
-    line-height: 35px;
+     line-height: 35px;
     margin-top: 6px;
 }
 .subscibe-description p{
