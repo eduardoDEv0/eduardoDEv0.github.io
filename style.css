@@ -2807,7 +2807,8 @@ span.flaticon-multiply i {
     display: flex; /* Utiliza flexbox para centrar la imagen */
     justify-content: center; /* Centra la imagen horizontalmente */
     align-items: center; /* Centra la imagen verticalmente */
-  }
+    z-index: 1000;  
+}
 
   .fixed-button img {
     width: 25px; /* Ajusta el tamaño de la imagen */
@@ -2838,4 +2839,22 @@ span.flaticon-multiply i {
     color: #3C4280;
   }
 
+  /**/
+  .brand-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espaciado entre las imágenes */
+  }
+  
+  .brand-thumb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .brand-thumb img {
+    max-width: 100%; /* Para que las imágenes no desborden su contenedor */
+    height: auto;
+  }
   

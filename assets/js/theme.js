@@ -143,12 +143,12 @@ $(document).ready(function(){
 	});
 	
     /*---- scrollUp----- */
-    $.scrollUp({
-        scrollText: '<i class="fa fa-angle-up"></i>',
-        easingType: 'linear',
-        scrollSpeed: 900,
-        animation: 'fade'
-    });
+    // $.scrollUp({
+    //     scrollText: '<i class="fa fa-angle-up"></i>',
+    //     easingType: 'linear',
+    //     scrollSpeed: 900,
+    //     animation: 'fade'
+    // });
  // Calender Jquery
         var curDate = (new Date()).getDate();
         var curMonth = (new Date()).getMonth();
