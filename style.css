@@ -732,7 +732,7 @@ a.hero-button-01:hover {
 }
 .choose-title h4 {
     margin-top: 0;
-    font-size: 20px;
+    font-size: 24px;
     color: #3C4280;
 	
 }
@@ -757,11 +757,11 @@ a.hero-button-01:hover {
 .choose-icon:before {
     position: absolute;
     content: "";
-    top: -33px;
+   /* top: -33px;
     left: -98px;
-    height: 88px;
+    height: 88px; */
     width: 88px;
-    background: #DAEFE6;
+    background: #ffffff;
     right: 0;
     margin: auto;
     transition: .5s;
@@ -794,7 +794,7 @@ a.hero-button-01:hover {
     border-radius: 4px;
 }
 .choose-icon.two::before {
-	background: #FAE1DA!important;
+	background: #ffffff!important;
 }
 .choose-icon.two i {
 	color: #FF4F0B!important;
