@@ -62,6 +62,16 @@ body {
     line-height: 23px;
 }
 
+.column-links-bloglist a {
+    display: block;
+    color: #fff;
+    margin: 5px 0;
+    font-weight: 200;
+    font-size: .9rem;
+    /* font-size: 1.3rem; */
+    text-decoration: none;
+    line-height: 23px;
+}
 .column-links a:hover {
     color: #fff;
 }
