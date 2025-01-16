@@ -473,7 +473,6 @@ a.hero-button-01:hover {
     transition:0.5s;
     font-weight: 600;
     color: #3C4280;
-    font-family: "Montserrat-Regular", Montserrat-Regular;
 }
 .single-service-inner:hover {
     transform: translateY(-10px);

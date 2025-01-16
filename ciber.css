@@ -28,6 +28,7 @@
     background: linear-gradient(to right, #FF8200 0%, #FF8200 97%);
     padding: 12px 41px;
     font-weight: 600;
+    color: white;
 }
 
 .about-btn-ciber.left a i {
