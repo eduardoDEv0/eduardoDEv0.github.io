@@ -391,10 +391,10 @@ a.hero-button-01:hover {
 .service-icon::before {
     position: absolute;
     content: "";
-    top: -17px;
+   /* top: -17px;
     left: -2px;
     height: 105px;
-    width: 105px;
+    width: 105px; */
     background: #DAEFE6;
     right: 0;
     margin: auto;
@@ -2854,7 +2854,7 @@ span.flaticon-multiply i {
 	margin: 50px auto;
 	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
 	border-radius: 10px;
-	border: 6px solid #3C4280;
+	border: 6px solid #FF8200;
 }
 .form-style-9 ul{
 	padding:0;
@@ -2900,20 +2900,21 @@ span.flaticon-multiply i {
 }
 .form-style-9 ul li input[type="button"], 
 .form-style-9 ul li input[type="submit"] {
-	-moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
-	-webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
-	box-shadow: inset 0px 1px 0px 0px #3985B1;
-	background-color: #216288;
-	border: 1px solid #17445E;
+	-moz-box-shadow: inset 0px 1px 0px 0px #FF8200;
+	-webkit-box-shadow: inset 0px 1px 0px 0px #FF8200;
+	box-shadow: inset 0px 1px 0px 0px #FF8200;
+	background-color: #FF8200;
+	border: 1px solid #FF8200;
 	display: inline-block;
 	cursor: pointer;
 	color: #FFFFFF;
 	padding: 8px 18px;
 	text-decoration: none;
+
 }
 .form-style-9 ul li input[type="button"]:hover, 
 .form-style-9 ul li input[type="submit"]:hover {
-	background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
-	background-color: #28739E;
+	background: linear-gradient(to bottom, #FF8200 5%, #FF8200 100%);
+	background-color: #FF8200;
 }
   

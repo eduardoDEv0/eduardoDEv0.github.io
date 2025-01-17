@@ -139,4 +139,6 @@ a.meanmenu-reveal{display:none}
     left: 10px;
     position: absolute;
     top: 18px;
+    background-image: url('assets/images/Sinaptic_WL.png'); /* Reemplaza con la ruta de tu imagen */
+
 }
