@@ -7,8 +7,18 @@ a.meanmenu-reveal{display:none}
 	position: relative;
 	width: 100%;
 	z-index: 999;
+  background-image: url('../images/logo_sinaptic_05.png');
+  background-size: contain;  /* Ajusta la imagen sin distorsionarla */
+  background-repeat: no-repeat;  /* No repite la imagen */
+  background-position: left center; 
+
 }
-.mean-container a.meanmenu-reveal{width:22px;height:22px;padding:18px;top:0;right:0;cursor:pointer;color:#fff;text-decoration:none;font-size:16px;text-indent:-9999em;line-height:22px;font-size:1px;display:block;font-family:Montserrat-Regular,Montserrat-Regular,Montserrat-Regular;font-weight:700;float: right;}
+.mean-container a.meanmenu-reveal{
+  width:22px;height:22px;padding:18px;top: 0; right:0;cursor:pointer;color:#fff;text-decoration:none;font-size:16px;
+  text-indent:-9999em;line-height:22px;font-size:1px;display:block;
+  font-family:Montserrat-Regular,Montserrat-Regular,Montserrat-Regular;font-weight:700;float: right;
+}
+
 .mean-container a.meanmenu-reveal span{display:block;background:#fff;height:3px;margin-top:3px}
 .mean-container .mean-nav{float:left;width:100%;background:#0c1923}
 .mean-container .mean-nav ul{padding:0;margin:0;width:100%;list-style-type:none}
@@ -131,14 +141,30 @@ a.meanmenu-reveal{display:none}
 .mean-container a.meanmenu-reveal:hover span {
   background: #fff;
 }
-.mean-container .mean-bar::before {
+/* .mean-container .mean-bar::before {
     color: #fff;
-    content: "Sinaptic®";
+    content: '';
     font-size: 18px;
     font-weight: 700;
     left: 10px;
     position: absolute;
     top: 18px;
-    background-image: url('assets/images/Sinaptic_WL.png'); /* Reemplaza con la ruta de tu imagen */
-
+    background-image: url('assets/images/logo_sinaptic_05_V2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    width: 100%;
+    height: 50px;
+    display: block;
+} */
+.mean-container .mean-bar::before {
+  content: '';  /* Necesario para generar el contenido */
+  background-image: url('assets/images/Sinaptic_WL.png'); /* Ruta correcta */
+  background-size: contain;  /* Ajusta la imagen sin distorsionarla */
+  background-repeat: no-repeat;  /* No repite la imagen */
+  background-position: left center;  /* Posiciona la imagen correctamente */
+  width: 120px;  /* Ajusta el ancho de la imagen */
+  height: 50px;  /* Ajusta la altura de la imagen */
+  display: block;  /* Asegura que la pseudo-clase sea visible */
+  position: absolute;
 }
